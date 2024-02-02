@@ -1,0 +1,7 @@
+{
+  "name": "getPostInfo",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
